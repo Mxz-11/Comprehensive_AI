@@ -2,7 +2,7 @@
 An end-to-end AI system integrating a conversational chatbot, image recognition, speech processing, and image generation using Hugging Face models and Gradio interface.
 
 <h1 align="center">
-  <img src="https://media.tenor.com/2MLNCPG_hlEAAAAC/st-george-georgi.gif" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" alt="Coding Robot GIF">
 </h1>
 
 ---
