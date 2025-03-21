@@ -1,6 +1,8 @@
 # Comprehensive_AI
 An end-to-end AI system integrating a conversational chatbot, image recognition, speech processing, and image generation using Hugging Face models and Gradio interface.
 
+![](https://tenor.com/es/view/st-george-georgi-robot-colegio-colegio-st-george-gif-13091700567990263020)
+
 ## AI Multimodal System with Chatbot, Vision, Speech, and Image Generation
 
 This project is a comprehensive, multimodal AI system that combines several state-of-the-art deep learning models to deliver a seamless and intelligent user interaction experience. At its core, the system features a powerful conversational agent based on **Llama-3.2-3B-Instruct**, a fine-tuned large language model (LLM) developed by Meta and hosted on Hugging Face. 
