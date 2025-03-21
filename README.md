@@ -1,7 +1,11 @@
 # Comprehensive_AI
 An end-to-end AI system integrating a conversational chatbot, image recognition, speech processing, and image generation using Hugging Face models and Gradio interface.
 
-![St. George Robot GIF](https://tenor.com/es/view/robot-hi-robot-technology-gif-25342200)
+<h1 align="center">
+  <img src="https://tenor.com/view/cats-cat-computer-gif-15556901.gif" alt="Coding GIF">
+</h1>
+
+---
 
 ## AI Multimodal System with Chatbot, Vision, Speech, and Image Generation
 
