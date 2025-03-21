@@ -37,6 +37,10 @@ All components are integrated into a single user-friendly interface, allowing us
 
 📁 /Model.ipynb
 
+#### Image generation LLM
+
+📁 /bot
+
 ## How to Run
 
 > You can run the system directly in Google Colab.
